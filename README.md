@@ -27,12 +27,6 @@ Here are some ideas to get you started:
 
 - ⚡ Quick fact: I have a passion for growing and caring for orchids in my free time. It's a rewarding and relaxing hobby that allows me to indulge in nature and cultivate something beautiful.
 
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://www.linkedin.com/in/katerina-mykhailyk/">
-  <img align="left" alt="Katya's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=katerina.mykhailyk)
 
 <h3 align="left">My Blogs:</h3>
