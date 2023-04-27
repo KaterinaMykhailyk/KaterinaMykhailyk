@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">A Full-Stack Software Developer passionate about creating around developing captivating applications that delight users.</h3>
 <p>Designing and developing complex applications that provide engaging experiences and being accessible to all users is something that I find both challenging and rewarding. My passion for learning newweb technologies fuels my continuous growth as a developer.</p>
-<img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 
 - 🔭 I’m currently working on building my personal website and writing an article about using SQL queries.
 
@@ -41,6 +40,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=katerinamykhailyk&show_icons=true&locale=en&theme=prussian" alt="katerinamykhailyk" /></p>
