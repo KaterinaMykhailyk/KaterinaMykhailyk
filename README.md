@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Katerina or just Katya!
+<h1 align="left">Hi there 👋, I'm Katerina!</h1>
 
 <!--
 **KaterinaMykhailyk/KaterinaMykhailyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 <h3 align="left">A Full-Stack Software Developer passionate about creating around developing captivating applications that delight users.</h3>
 <p>Designing and developing complex applications that provide engaging experiences while being accessible to all users is something that I find both challenging and rewarding. My passion for learning newweb technologies fuels my continuous growth as a developer.</p>
 <img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
