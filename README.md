@@ -14,12 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 <h3 align="left">A Full-Stack Software Developer passionate about creating around developing captivating applications that delight users.</h3>
-<p>Designing and developing complex applications that provide engaging experiences while being accessible to all users is something that I find both challenging and rewarding. My passion for learning newweb technologies fuels my continuous growth as a developer.</p>
+<p>Designing and developing complex applications that provide engaging experiences and being accessible to all users is something that I find both challenging and rewarding. My passion for learning newweb technologies fuels my continuous growth as a developer.</p>
 <img align="right" width="300" src="https://64.media.tumblr.com/7e71f3316e44417e20e10ea3620c6a76/tumblr_my8dm6J64M1ro8ysbo1_500.gifv">
 
+- 🔭 I’m currently working on building my personal website and writing an article about using SQL queries.
+
 - 🌱 My current focus is on advancing my skills in C# and JavaScript, as well as experimenting with cloud technologies like AWS.
+
+- 👯 I’m looking to collaborate on compelling projects utilizing the .NET stack on the back-end.
+
+- 💬 Ask me about data structures and algorithms, I love to puzzle over things.
 
 - ⚡ Quick fact: I have a passion for growing and caring for orchids in my free time. It's a rewarding and relaxing hobby that allows me to indulge in nature and cultivate something beautiful.
 
