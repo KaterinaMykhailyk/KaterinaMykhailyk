@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - ⚡ Quick fact: I have a passion for growing and caring for orchids in my free time. It's a rewarding and relaxing hobby that allows me to indulge in nature and cultivate something beautiful.
 
-![](https://visitor-badge.glitch.me/badge?page_id=katerina.mykhailyk)
-<h3 align="left">My Blogs:</h3>
-<p><a href="https://dev.to/katerinamykhailyk">Dev.to</a></p>
+<h3 align="left">My Blogs:</h3><a href="https://dev.to/katerinamykhailyk">Dev.to</a>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=katerinamykhailyk&show_icons=true&locale=en&theme=prussian" alt="katerinamykhailyk" /></p>
