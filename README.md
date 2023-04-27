@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">A Full-Stack Software Developer passionate about creating around developing captivating applications that delight users.</h3>
+<h3 align="left">A Full-Stack Software Developer passionate about creating captivating applications that delight users.</h3>
 <p>Designing and developing complex applications that provide engaging experiences and being accessible to all users is something that I find both challenging and rewarding. My passion for learning newweb technologies fuels my continuous growth as a developer.</p>
 
 - 🔭 I’m currently working on building my personal website and writing an article about using SQL queries.
